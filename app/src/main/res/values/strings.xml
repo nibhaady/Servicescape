@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ServiScape</string>
+    <string name="login">Login</string>
+    <string name="your_daily_run_down">Your daily run down</string>
+    <string name="Login">LOGIN</string>
+    <string name="title_activity_dashboard1">dashboard1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="cook">Cook</string>
+    <string name="description">Description</string>
+    <string name="phone_number">Phone number</string>
+    <string name="name_of_angency">Name of Angency</string>
+    <string name="caretaker">Caretaker</string>
+    <string name="grocery">Grocery</string>
+    <string name="choose_the_service_your_provinding">Choose the Service your provinding</string>
+    <string name="address">Address</string>
+    <string name="veternary">Veternary</string>
+    <string name="transport">Transport</string>
+    <string name="tuition">Tuition</string>
+    <string name="fuel">Fuel</string>
+    <string name="plumbing">Plumbing</string>
+</resources>

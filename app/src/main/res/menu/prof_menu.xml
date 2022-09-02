@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Profile">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_reg"
+                    android:icon="@drawable/ic_reg"
+                    android:title="Register to provide service " />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_back"
+                    android:title="Logout" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Other">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/ic_share"
+                    android:title="Share" />
+
+                <item
+                    android:id="@+id/rate"
+                    android:icon="@drawable/ic_rate"
+                    android:title="Rate us" />
+                <item
+                    android:id="@+id/cs"
+                    android:icon="@drawable/ic_contact"
+                    android:title="Contact us" />
+
+
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
+
